@@ -31,6 +31,7 @@ export default function CartPage() {
 
               <div className="flex items-center gap-3">
                 <input
+                title="remove"
                   className="w-20 rounded-lg border px-2 py-1"
                   type="number"
                   min={1}
