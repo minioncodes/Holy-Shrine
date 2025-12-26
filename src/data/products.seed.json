@@ -1,0 +1,806 @@
+[
+  {
+    "title": "Anandam Dhoop Cones-Chandan",
+    "slug": "anandam-dhoop-cones-chandan",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "~30 min",
+      "quantity": "30 cones",
+      "freebies": [
+        "matchsticks"
+      ],
+      "weight": "~100g"
+    }
+  },
+  {
+    "title": "Anandam Dhoop Cones-Kasturi (Musk)",
+    "slug": "anandam-dhoop-cones-kasturi-musk",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "~30 min",
+      "quantity": "30 cones",
+      "freebies": [
+        "matchsticks"
+      ],
+      "weight": "~100g"
+    }
+  },
+  {
+    "title": "Anandam Dhoop Cones-Vedic Havan",
+    "slug": "anandam-dhoop-cones-vedic-havan",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "~30 min",
+      "quantity": "30 cones",
+      "freebies": [
+        "matchsticks"
+      ],
+      "weight": "~100g"
+    }
+  },
+  {
+    "title": "Havan Samrani-Chandan",
+    "slug": "havan-samrani-chandan",
+    "price": 150,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "samrani"
+    }
+  },
+  {
+    "title": "Havan Samrani-Guggul",
+    "slug": "havan-samrani-guggul",
+    "price": 150,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "samrani"
+    }
+  },
+  {
+    "title": "Havan Samrani-Lohbaan",
+    "slug": "havan-samrani-lohbaan",
+    "price": 150,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "samrani"
+    }
+  },
+  {
+    "title": "Havan Samrani-Vedic Havan",
+    "slug": "havan-samrani-vedic-havan",
+    "price": 150,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "samrani"
+    }
+  },
+  {
+    "title": "Sampurnam-Chandan",
+    "slug": "sampurnam-chandan",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": null
+  },
+  {
+    "title": "Sampurnam-Kasturi (Musk)",
+    "slug": "sampurnam-kasturi-musk",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": null
+  },
+  {
+    "title": "Sampurnam-Vedic Havan",
+    "slug": "sampurnam-vedic-havan",
+    "price": 235,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": null
+  },
+  {
+    "title": "Tilak Chandan Special Ayodhya Edition",
+    "slug": "tilak-chandan-special-ayodhya-edition",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "devotional-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "handMade": true,
+      "size": "1.5 inch",
+      "quantity": "40 cones",
+      "burnTime": "20-25 min",
+      "weight": "~150g",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Joy Bubble Crisp Citronella Incense Sticks",
+    "slug": "joy-bubble-crisp-citronella-incense-sticks",
+    "price": 200,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "joy-bubble-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Joy Bubble Divine Pachouli Incense Sticks",
+    "slug": "joy-bubble-divine-pachouli-incense-sticks",
+    "price": 200,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "joy-bubble-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Joy Bubble Lavender Incense Sticks",
+    "slug": "joy-bubble-lavender-incense-sticks",
+    "price": 200,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "joy-bubble-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Joy Bubble Pineapple Delight Incense Sticks",
+    "slug": "joy-bubble-pineapple-delight-incense-sticks",
+    "price": 200,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "joy-bubble-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Joy Bubble Warm Musk Incense Sticks",
+    "slug": "joy-bubble-warm-musk-incense-sticks",
+    "price": 200,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "joy-bubble-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Dreamy Lavender Cone",
+    "slug": "premium-trial-dreamy-lavender-cone",
+    "price": 72,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Premium Trial Flower Bela Agarbatti",
+    "slug": "premium-trial-flower-bela-agarbatti",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Flower Chandan Agarbatti",
+    "slug": "premium-trial-flower-chandan-agarbatti",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Flower Lavender Agarbatti",
+    "slug": "premium-trial-flower-lavender-agarbatti",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Flower Mogra Agarbatti",
+    "slug": "premium-trial-flower-mogra-agarbatti",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Flowers Rose Agarbatti",
+    "slug": "premium-trial-flowers-rose-agarbatti",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "incense-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Fresh Jasmine Cones",
+    "slug": "premium-trial-fresh-jasmine-cones",
+    "price": 72,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Premium Trial Guggul Dhoop Stick( Bambooless)",
+    "slug": "premium-trial-guggul-dhoop-stick-bambooless",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Lohbaan Dhoop Sticks( Bambooless)",
+    "slug": "premium-trial-lohbaan-dhoop-sticks-bambooless",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Masala Sandalwood Cones",
+    "slug": "premium-trial-masala-sandalwood-cones",
+    "price": 72,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Premium Trial Masala Sandalwood Dhoop Stick( Bambooless)",
+    "slug": "premium-trial-masala-sandalwood-dhoop-stick-bambooless",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Premium Trial Soft Rose Cone",
+    "slug": "premium-trial-soft-rose-cone",
+    "price": 72,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Premium Trial Warm Musk Dhoop Sticks( Bambooless)",
+    "slug": "premium-trial-warm-musk-dhoop-sticks-bambooless",
+    "price": 60,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "premium-trial-offer-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Skill Development©(All rights reserved)-Masala Sandalwood",
+    "slug": "skill-development-all-rights-reserved-masala-sandalwood",
+    "price": 400,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "skill-development-range",
+      "signature-range"
+    ],
+    "isFeatured": false,
+    "specs": {
+      "type": "diy-kit"
+    }
+  },
+  {
+    "title": "Ullas-Chandan",
+    "slug": "ullas-chandan",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Ullas-Guggul",
+    "slug": "ullas-guggul",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Ullas-Lavender",
+    "slug": "ullas-lavender",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Ullas-Lohbaan",
+    "slug": "ullas-lohbaan",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Ullas-Warm Musk",
+    "slug": "ullas-warm-musk",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-sticks",
+      "smokeLevel": "low"
+    }
+  },
+  {
+    "title": "Umang-Chandan",
+    "slug": "umang-chandan",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Umang-Dreamy Lavender",
+    "slug": "umang-dreamy-lavender",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Umang-Raw Jasmine",
+    "slug": "umang-raw-jasmine",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Umang-Red Rose",
+    "slug": "umang-red-rose",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Umang-Warm Musk",
+    "slug": "umang-warm-musk",
+    "price": 250,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "size": "1.5 inch",
+      "smokeLevel": "low",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Utsav Combo 1-Warm Musk Cone, Lavender Stick, Pineapple Delight Agarbatti",
+    "slug": "utsav-combo-1-warm-musk-cone-lavender-stick-pineapple-delight-agarbatti",
+    "price": 500,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "smokeLevel": "low",
+      "size": "1.5 inch",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Utsav Combo 2-Raw Jasmine Cone, Lohbaan Stick,Pachauli Agarbatti",
+    "slug": "utsav-combo-2-raw-jasmine-cone-lohbaan-stick-pachauli-agarbatti",
+    "price": 500,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "smokeLevel": "low",
+      "size": "1.5 inch",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Utsav Combo 3-Lavender Cone,Sandalwood Stick, Warm Musk Agarbatti",
+    "slug": "utsav-combo-3-lavender-cone-sandalwood-stick-warm-musk-agarbatti",
+    "price": 500,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "smokeLevel": "low",
+      "size": "1.5 inch",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Utsav Combo 4-Sandalwood Cone, ,Warm Musk Stick, Lavender Agarbatti",
+    "slug": "utsav-combo-4-sandalwood-cone-warm-musk-stick-lavender-agarbatti",
+    "price": 500,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "smokeLevel": "low",
+      "size": "1.5 inch",
+      "burnTime": "20-30 min"
+    }
+  },
+  {
+    "title": "Utsav Combo 5-Red Rose Cone,Guggul Stick, Crisp Citronella Agarbatti",
+    "slug": "utsav-combo-5-red-rose-cone-guggul-stick-crisp-citronella-agarbatti",
+    "price": 500,
+    "shortDesc": "Imported from Holy Shrine Incenses catalog.",
+    "longDesc": "",
+    "images": [],
+    "categories": [
+      "you-range",
+      "signature-range"
+    ],
+    "isFeatured": true,
+    "specs": {
+      "type": "dhoop-cones",
+      "smokeLevel": "low",
+      "size": "1.5 inch",
+      "burnTime": "20-30 min"
+    }
+  }
+]

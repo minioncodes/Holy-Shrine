@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Devotional Range",
+    "slug": "devotional-range",
+    "description": "Enhance the focus and strength of your devotion by offering pure incense made from recycled flowers and choicest aroma oils. Our Tilak Chandan incense cones are dedicated to Ayodhya and are hand made. \"प्रार्थना की शक्ति, होली श्राइन धूप एवं अगरबत्ती\"",
+    "sortOrder": 1
+  },
+  {
+    "name": "Joy Bubble Range",
+    "slug": "joy-bubble-range",
+    "description": "The \"Joybubble\" range is our way to salute Specially Abled Persons as it showcases the incenses so lovingly made by them. Incense here is also an olfactory, sensorial lifestyle experience—used to lift damp spirits, increase focus and promote a sense of well-being (calm or euphoria, depending on the aroma).",
+    "sortOrder": 2
+  },
+  {
+    "name": "Premium Trial Offer Range",
+    "slug": "premium-trial-offer-range",
+    "description": "Made from fresh flower petals and choicest aroma oils—curated as a bouquet of delightful fragrances to soothe your mind and soul. Go on, pamper yourself with the collection!",
+    "sortOrder": 3
+  },
+  {
+    "name": "Signature Range",
+    "slug": "signature-range",
+    "description": "Corporate gifting range where we can customize your fragrance and the incense box can carry your branding along with ours. Ideal for gifting (instead of bouquets), hampers, after-party favours, and even with wedding invitations—because when you gift incense, your memory lingers on just like its fragrance.",
+    "sortOrder": 4
+  },
+  {
+    "name": "Skill Development Range",
+    "slug": "skill-development-range",
+    "description": "A complete DIY incense kit with guidance to create incense with your own hands. With our special pre-mixed formula for dough and aroma oil of your choice, you become a \"fragrantor\"—create your own magic and your own signature incense.",
+    "sortOrder": 5
+  },
+  {
+    "name": "You Range",
+    "slug": "you-range",
+    "description": "\"YOU\" range—as premium and special as you are. Made from choicest flower petals collected from temples and recycled into natural fragrances. Includes Utsav (combo pack of incense sticks, dhoop sticks and dhoop cones), Ullas (4-inch dhoop sticks) and Umang (1.5-inch dhoop cones). This is our premium gifting range—gift this joy to your loved ones!",
+    "sortOrder": 6
+  }
+]
